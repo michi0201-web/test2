@@ -25,3 +25,9 @@ php artisan migrate
 シーディングの実行
 php artisan db:seed
 php artisan db:seed --class=ProductSeeder
+
+
+![ER図](https://github.com/user-attachments/assets/6e73677d-5587-485e-a58b-6701be2aeb79)
+
+開発環境：http://localhost:8000/
+phpMyAdmin:：http://localhost:8080/
